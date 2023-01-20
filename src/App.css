@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: blanchedalmond;
+  height: 100vh;
+}
+
+.heading {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.depment {
+  margin-left: -63px;
+}
+
+.rating {
+  margin-left: -5px;
+}
+
+label {
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+input {
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  color: black;
+  padding: 20px;
+}
+.value{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(15, 148, 201);
+  border: 2px solid black;
+  justify-content: center;
+}
+
+
+.btn {
+  width: 200px;
+  height: 50px;
+  margin-left: 75px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+}
+
+.box1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(121, 26, 76);
+  color: white;
+  border-radius: 50px;
+  margin: 10px;
+  width: 400px;
+  height: 70px;
+  font-size: 1em;
+}
+
+
